@@ -1,7 +1,7 @@
 {
   "name": "succulent",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An atom port of the TextMate Succulent theme",
   "repository": "https://github.com/jordannoble/succulent",
   "license": "MIT",
